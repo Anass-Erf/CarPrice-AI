@@ -1,0 +1,146 @@
+[
+  {
+    "input": {
+      "Kilométrage": 50000,
+      "Puissance": 6,
+      "Model_Year": 2018,
+      "Nb_portes": 4,
+      "Première_main": "oui",
+      "Transmission": "manuelle",
+      "État": "bon",
+      "Carburant": "essence",
+      "Origine": "ww au maroc",
+      "Marque": "renault",
+      "Model": "clio"
+    },
+    "predicted_price": 95723.8671875
+  },
+  {
+    "input": {
+      "Model_Year": 2007,
+      "Transmission": "manuelle",
+      "Carburant": "diesel",
+      "Kilométrage": 22499.5,
+      "Marque": "opel",
+      "Model": "corsa",
+      "Puissance": 5.0,
+      "Nb_portes": 4,
+      "Origine": "ww au maroc",
+      "Première_main": "non",
+      "État": "très bon"
+    },
+    "predicted_price": 60626.62109375
+  },
+  {
+    "input": {
+      "Model_Year": 2009,
+      "Transmission": "automatique",
+      "Carburant": "diesel",
+      "Kilométrage": 274999.5,
+      "Marque": "mercedes-benz",
+      "Model": "250",
+      "Puissance": 9.0,
+      "Nb_portes": 4,
+      "Origine": "importée neuve",
+      "Première_main": "non",
+      "État": "très bon"
+    },
+    "predicted_price": 121261.3046875
+  },
+  {
+    "input": {
+      "Model_Year": 2019,
+      "Transmission": "automatique",
+      "Carburant": "diesel",
+      "Kilométrage": 82499.5,
+      "Marque": "volvo",
+      "Model": "s60",
+      "Puissance": 8.0,
+      "Nb_portes": 4,
+      "Origine": "ww au maroc",
+      "Première_main": "non",
+      "État": "excellent"
+    },
+    "predicted_price": 246535.4375
+  },
+  {
+    "input": {
+      "Model_Year": 2004,
+      "Transmission": "manuelle",
+      "Carburant": "diesel",
+      "Kilométrage": 424999.5,
+      "Marque": "kia",
+      "Model": "sorento",
+      "Puissance": 10.0,
+      "Nb_portes": 4,
+      "Origine": "ww au maroc",
+      "Première_main": "non",
+      "État": "très bon"
+    },
+    "predicted_price": 55686.7578125
+  },
+  {
+    "input": {
+      "Model_Year": 2015,
+      "Transmission": "automatique",
+      "Carburant": "diesel",
+      "Kilométrage": 184999.5,
+      "Marque": "autres",
+      "Model": "autres",
+      "Puissance": 9.0,
+      "Nb_portes": 4,
+      "Origine": "ww au maroc",
+      "Première_main": "non",
+      "État": "excellent"
+    },
+    "predicted_price": 171187.296875
+  },
+  {
+    "input": {
+      "Model_Year": 2016,
+      "Transmission": "manuelle",
+      "Carburant": "diesel",
+      "Kilométrage": 124999.5,
+      "Marque": "toyota",
+      "Model": "auris",
+      "Puissance": 5.0,
+      "Nb_portes": 4,
+      "Origine": "ww au maroc",
+      "Première_main": "oui",
+      "État": "excellent"
+    },
+    "predicted_price": 136166.484375
+  },
+  {
+    "input": {
+      "Model_Year": 2019,
+      "Transmission": "manuelle",
+      "Carburant": "diesel",
+      "Kilométrage": 104999.5,
+      "Marque": "peugeot",
+      "Model": "208",
+      "Puissance": 6.0,
+      "Nb_portes": 4,
+      "Origine": "ww au maroc",
+      "Première_main": "non",
+      "État": "bon"
+    },
+    "predicted_price": 112417.9140625
+  },
+  {
+    "input": {
+      "Model_Year": 2006,
+      "Transmission": "manuelle",
+      "Carburant": "diesel",
+      "Kilométrage": 274999.5,
+      "Marque": "kia",
+      "Model": "sorento",
+      "Puissance": 10.0,
+      "Nb_portes": 4,
+      "Origine": "importée neuve",
+      "Première_main": "non",
+      "État": "très bon"
+    },
+    "predicted_price": 63561.40625
+  }
+]

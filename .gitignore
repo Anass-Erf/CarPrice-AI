@@ -1,1 +1,29 @@
-__pycache__/\n*.joblib\n*.pkl\n*.ipynb_checkpoints\n.env\n.DS_Store
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+# Frontend
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+next-env.d.ts
+playwright-report/
+test-results/
+# Local configuration
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+# OS and generated files
+.DS_Store
+Thumbs.db
+*.log
+training/runs/
+# The small, required demo artifact and supplied datasets remain tracked.

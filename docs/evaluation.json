@@ -1,0 +1,19 @@
+{
+  "dataset_sha256": "2a8a69c3c95fb5d82b5b6a97e5e2e9f66fa08b644928bc7814083e4ed58ef965",
+  "rows": 53391,
+  "train_rows": 42712,
+  "seed": 42,
+  "evaluation": "80/20 split of historically cleaned snapshot",
+  "caveat": "Historical cleaning/imputation happened before this split. Evaluate from raw data before claiming independent generalization.",
+  "test_rows": 10679,
+  "mae": 14045.540307276548,
+  "rmse": 22720.38654351442,
+  "r2": 0.8913423418998718,
+  "runtime": {
+    "python": "3.12.3",
+    "scikit-learn": "1.5.1",
+    "xgboost": "3.4.1",
+    "pandas": "3.0.6",
+    "numpy": "2.5.3"
+  }
+}

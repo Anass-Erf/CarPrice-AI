@@ -1,0 +1,11 @@
+-r ../backend/requirements.txt
+jupyterlab
+matplotlib
+seaborn
+scipy
+numpy
+lightgbm
+requests
+beautifulsoup4
+selenium
+webdriver-manager

@@ -1,9 +1,1 @@
-fastapi
-uvicorn
-joblib
-pandas
-scikit-learn
-xgboost
-streamlit
-pydantic
-requests
+-r backend/requirements.txt
