@@ -1,4 +1,4 @@
-# 🚗 CarPrice AI
+#  CarPrice AI
 
 **A used-car price estimation application for Morocco, from trained model to web product.**
 
